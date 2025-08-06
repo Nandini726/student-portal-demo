@@ -1,0 +1,6 @@
+name-Nandini
+suc code-2361530230
+roll no-34
+course-bsc computer science
+college name-awdcgpt
+
